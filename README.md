@@ -44,6 +44,7 @@ The SQL Challenge Employee Tracker is a command-line application that allows you
 ![VEBM-demo](./assets/data_VEBM_demo.jpg)
 
 View demo video here:
+https://www.loom.com/share/85a160d697cc4b61ac423c247b7320df?sid=172848fc-1dc9-4341-8175-0518af2e2bc0
 
 ## License
 
@@ -58,10 +59,11 @@ Please let me know how I can improve this project. Issues and pull requests are 
 No test is included in this project.
 
 ## Credits
+
 https://www.npmjs.com/package/mysql2
 icon8.com for the icons.
 stackoverflow.com for the help with the code.
-https://codingartistweb.com/ 
+https://codingartistweb.com/
 
 ## Questions
 
