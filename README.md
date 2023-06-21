@@ -36,9 +36,9 @@ The SQL Challenge Employee Tracker is a command-line application that allows you
 
 ## Screenshots
 
-![Note Taker](/assets/12-sql-homework-demo-01)
-![Note Taker](/image_icons8/note-taker2.jpg)
-![Note Taker](/image_icons8/note-taker3.jpg)
+![](/assets/12-sql-homework-demo-01)
+![](/image_icons8/note-taker2.jpg)
+![](/image_icons8/note-taker3.jpg)
 View demo video here:
 
 ## License
