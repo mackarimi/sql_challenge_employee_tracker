@@ -58,9 +58,10 @@ Please let me know how I can improve this project. Issues and pull requests are 
 No test is included in this project.
 
 ## Credits
-
+https://www.npmjs.com/package/mysql2
 icon8.com for the icons.
 stackoverflow.com for the help with the code.
+https://codingartistweb.com/ 
 
 ## Questions
 
