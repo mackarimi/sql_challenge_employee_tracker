@@ -19,7 +19,7 @@ The SQL Challenge Employee Tracker is a command-line application that allows you
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/mackarimi/`
+1. Clone the repository: `git clone https://github.com/mackarimi/sql_challenge_employee_tracker.git`
 2. Navigate to the repo directory: `cd`
 3. Open the repo in VSCode: `code .`
 4. Open the integrated terminal from the VSCode: `ctrl+~`
