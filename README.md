@@ -15,6 +15,7 @@ The SQL Challenge Employee Tracker is a command-line application that allows you
 💠[Credits](#credits)
 💠[Questions](#questions)
 💠[GitHub](#github)
+💠[GitHub-link](#Github-link)
 
 ## Installation
 
@@ -74,3 +75,7 @@ Questions or feedbacks are always welcome and appreciated.💬
 ## GitHub 💻
 
 [![Github](./assets/image-1.png)](https://github.com/mackarimi/)
+
+## GitHub Link:
+
+[![Github-link](./assets/image-2.png)](https://github.com/mackarimi/sql_challenge_employee_tracker)
