@@ -1,10 +1,7 @@
 node_modules
 mysql2
 inquirer
-console.table
-express
 mysql
-sequelize
 dotenv
 
 Other Files/Folders:
