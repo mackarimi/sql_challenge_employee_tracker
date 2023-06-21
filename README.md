@@ -36,9 +36,13 @@ The SQL Challenge Employee Tracker is a command-line application that allows you
 
 ## Screenshots
 
-![](/assets/12-sql-homework-demo-01)
-![](/image_icons8/note-taker2.jpg)
-![](/image_icons8/note-taker3.jpg)
+![hw-demo](./assets/12-sql-homework-demo-01.png)
+![VAD-demo](./assets/data_VAD_demo.jpg)
+![VAE-demo](./assets/data_VAE_demo.jpg)
+![VAR-demo](./assets/data_VAR_demo.jpg)
+![VEBD-demo](./assets/data_VEBD_demo.jpg)
+![VEBM-demo](./assets/data_VEBM_demo.jpg)
+
 View demo video here:
 
 ## License
@@ -62,8 +66,8 @@ stackoverflow.com for the help with the code.
 
 Questions or feedbacks are always welcome and appreciated.💬
 
-[![Email](/image_icons8/image.png)](mailto:karimiabdolkarim0@gmail.com)
+[![Email](./assets/image.png)](mailto:karimiabdolkarim0@gmail.com)
 
 ## GitHub 💻
 
-[![Github](/image_icons8/image-1.png)](https://github.com/mackarimi/)
+[![Github](./assets/image-1.png)](https://github.com/mackarimi/)
